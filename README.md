@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+My name is sufyaan 
+im currently studying cyber security at Leeds Beckett
 <!--
 **sufyaan859/sufyaan859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
